@@ -116,7 +116,7 @@ The script also supports optional command-line arguments to modify its behavior.
 
 
 ### GUI
-To use the GUI version, install gradio '''pip install gradio```. To run, do ```python ./myGPTgui.py```. It will print
+To use the GUI version, install gradio ```pip install gradio```. To run, do ```python ./myGPTgui.py```. It will print
 a local url on the screen that you can paste into your browser to start querying you documents.
 
 # How does it work?
