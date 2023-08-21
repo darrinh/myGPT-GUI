@@ -117,7 +117,7 @@ The script also supports optional command-line arguments to modify its behavior.
 
 ### GUI
 To use the GUI version, install gradio ```pip install gradio```. To run, do ```python ./myGPTgui.py```. It will print
-a local url on the screen that you can paste into your browser to start querying you documents.
+a local url on the screen that you can paste into your browser to start querying your documents.
 
 # How does it work?
 Selecting the right local models and the power of `LangChain` you can run the entire pipeline locally, without any data leaving your environment, and with reasonable performance.
